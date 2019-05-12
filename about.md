@@ -14,7 +14,7 @@ interested in Robotics, Reinforcement Learning and Natural Language Processing.
 
 I got BSc of Engineering from Toyota Technological Institute (Japan) and worked on Graph Embedding and Natural Language Processing under the supervision of Prof. [Makoto Miwa](https://www.toyota-ti.ac.jp/Lab/Denshi/COIN/people/makoto.miwa/) and Prof. [Yutaka Sasaki](https://www.toyota-ti.ac.jp/Lab/Denshi/COIN/people/yutaka.sasaki/index-e.html) in [Computational Intelligence Lab.](https://www.toyota-ti.ac.jp/Lab/Denshi/COIN/index-e.html).
 
-I also stayed at University College London Machine Reading Group as an intern to tackle [Fact-Extraction and VERification (FEVER)](http://fever.ai/) shared-task under Prof. [Pontus Stenetorp](https://pontus.stenetorp.se/) and Prof. [Sebastian Riedel](http://www.riedelcastro.org/).
+After that, I interned at University College London Machine Reading Group to tackle [Fact-Extraction and VERification (FEVER)](http://fever.ai/) shared-task under Prof. [Pontus Stenetorp](https://pontus.stenetorp.se/) and Prof. [Sebastian Riedel](http://www.riedelcastro.org/).
 
 # Publications
 - **Takuma Yoneda**, Koki Mori, Makoto Miwa and Yutaka Sasaki, EACL 2017  
