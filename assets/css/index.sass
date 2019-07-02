@@ -6,7 +6,17 @@ body
   min-height: 100vh
 
 nav
-  margin: 0.5em 0
+  margin: 0.5em -0.8em
+
+nav a
+  display: inline-flex
+  align-items: center
+  padding: 0 0.8em
+
+nav svg, footer svg
+  height: 1em
+  width: 1em
+  fill: currentColor
 
 table
   width: 100%
@@ -36,19 +46,17 @@ article header
   margin-bottom: 1.5em
 
 article header h1
+  font-size: 1.85em
   margin-bottom: 0.2em
 
 article footer
   padding: 1em 0
 
 .icon
-  margin: 0 1em
+  padding: 0 1em
 
 .icon svg
-  height: 1.1em
-  width: 1.1em
-  fill: currentColor
-  vertical-align: text-bottom
+  font-size: 1.1em
 
 .archive div
   display: flex

@@ -1,6 +1,8 @@
 ---
 ---
 
+$font-weight: 300
+
 @import index, anchor
 
 body > header, article, body > footer
@@ -12,6 +14,12 @@ body > header, article, body > footer
 
 body > header
   box-shadow: 0 0 1em rgba(40, 40, 40, .03)
+
+body > header.dark, body > footer.dark
+  background: #2b2b2b
+
+body > footer.dark
+  color: #aaa
 
 article, body > footer
   border-top: 1px solid reduce(12)
