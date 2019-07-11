@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: post
 title: "Rough Summary: Spatial Transformer Networks"
 date: 2019-06-20 19:36:56 
 tags: paper
