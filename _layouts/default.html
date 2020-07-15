@@ -21,7 +21,7 @@
 
 <header class="{% if site.dark_header %}dark{% endif %}">
   {% unless site.hide_title or site.style == "minimal" %}
-    <h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
+    <h1><a href="{{ "/about/" | relative_url }}">{{ site.title | escape }}</a></h1>
   {% endunless %}
   {% if site.navigation %}
     <nav>

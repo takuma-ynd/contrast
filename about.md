@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Takuma Yoneda
+title: About me
 permalink: /about/
 ---
 
-![Takuma Yoneda](/img/tyoneda.jpg)
-
-
+![Takuma Yoneda](/img/tyoneda.jpg)  
 **Takuma Yoneda**
 
 I am a PhD student at [Toyota Technological Institute at Chicago (TTIC)](https://ttic.edu/),  
