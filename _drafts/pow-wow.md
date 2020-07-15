@@ -4,7 +4,8 @@ layout: project
 permalink: /pow-wow/
 ---
 <div markdown="block">
-Takuma Yoneda, &nbsp;Matthew R. Walter, &nbsp;Jason Naradowsky  
+Takuma Yoneda<sup>🤖</sup>, &nbsp;Matthew R. Walter<sup>🤖</sup>, &nbsp;Jason Naradowsky<sup>🦄</sup>  
+🤖: Toyota Technological Institute at Chicago &nbsp;&nbsp;🦄: Preferred Networks, Inc.  
 [[PDF][paper]]  [[Dataset][dataset]]  [[Data collection tools (Github)][data-collection-tools]]
 </div>
 {: class="centering"}
@@ -22,7 +23,6 @@ We construct Pow-Wow, a new dataset for studying situated goal-directed human co
 Using the Pommerman game environment, we enlisted teams of humans to play against teams of AI agents, recording their observations, actions, and communications. We analyze the types of communications which result in effective game strategies, annotate them accordingly, and present corpus-level statistical analysis of how trends in communications affect game outcomes.
 Based on this analysis, we design a communication policy for learning agents, and show that agents which utilize communication achieve higher win-rates against baseline systems than those which do not.
 </div>
-{: class="centering"}
 
 # Dataset
 You can **download the dataset from [HERE][dataset]**.  
@@ -40,7 +40,7 @@ The dataset includes game logs and annotations.
 |---------|------------|----------------|
 | 80      | 2,513      | 59             |
 
-## Game logs:
+## Game logs
 Game logs are stored in `valid_games_anonymized/` as json files. The directory structure is the following:
 ```
 valid_games_anonymized/
@@ -72,12 +72,12 @@ Each json file has the following key & value pairs:
 	* current_timestep
 	* *an integer that corresponds to a timestep*: list of messages sent by both human players at the timestep.
 	
-For some other details, it can be helpful to visit [the official website of Pommerman](https://www.pommerman.com/about)
+For some other details, it can be helpful to visit [the official document of Pommerman](https://docs.pommerman.com/environment/)
 
-## Annotations:
+## Annotations
 Annotations are stored in `annotations_anonymized.csv`.
 
 
-[data-collection-tools]: http://www.example.com
-[dataset]: http://www.example.com
+[data-collection-tools]: https://github.com/takuma-ynd/pow-wow-data-collection
+[dataset]: https://github.com/takuma-ynd/pow-wow-data-collection/raw/master/dataset/pow-wow.tar.gz
 [paper]: http://www.example.com
