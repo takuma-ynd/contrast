@@ -80,4 +80,4 @@ Annotations are stored in `annotations_anonymized.csv`.
 
 [data-collection-tools]: https://github.com/takuma-ynd/pow-wow-data-collection
 [dataset]: https://github.com/takuma-ynd/pow-wow-data-collection/raw/master/dataset/pow-wow.tar.gz
-[paper]: http://www.example.com
+[paper]: https://larel-ws.github.io/
