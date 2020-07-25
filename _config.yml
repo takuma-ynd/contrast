@@ -2,6 +2,7 @@ title: "Takuma Yoneda"
 author: "Takuma Yoneda"
 description: "Learn things slowly and steadily just like a sloth"
 lang: "en"
+markdown: kramdown
 
 # Page settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
@@ -22,6 +23,7 @@ navigation:                  # site navigation in the header
 #  - title: "https://"       # linking external sites is also supported
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
+  newspaper: "/"
   envelope: "mailto:takuma@ttic.edu"
   github: "https://github.com/takuma-ynd"
   twitter: "https://twitter.com/takuma_ynd"
