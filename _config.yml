@@ -38,3 +38,4 @@ google_analytics: UA-101863959-2
 plugins: 
  - jekyll-feed
  - jekyll-default-layout
+ - jekyll-redirect-from
