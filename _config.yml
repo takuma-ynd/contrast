@@ -24,7 +24,7 @@ navigation:                  # site navigation in the header
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   newspaper: "/archive"
   envelope: "mailto:takuma@ttic.edu"
-  github: "https://github.com/takuma-ynd"
+  github: "https://github.com/takuma-yoneda"
   twitter: "https://twitter.com/takuma_ynd"
   # rss: "/contrast/feed.xml"
   user: "/"
