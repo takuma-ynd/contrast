@@ -27,7 +27,7 @@ icons:                       # (optional) icons in the header, see http://fontaw
   github: "https://github.com/takuma-yoneda"
   twitter: "https://twitter.com/takuma_ynd"
   # rss: "/contrast/feed.xml"
-  user: "/"
+  # user: "/"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
