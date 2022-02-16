@@ -57,7 +57,7 @@ EACL 2017
 Deep Reinforcement Learning for multi-agent cooperative game with communication.
 
 - [University College London (Machine Reading Group)](https://mr.cs.ucl.ac.uk/) (London, UK; 2018 Summer)  
-[Fact-Extraction and VERification (FEVER)](http://fever.ai) task. We got the [2nd place](http://fever.ai/2018/task.html) in the competition.
+Led a project on [Fact-Extraction and VERification (FEVER)](https://fever.ai/2018/task.html) shared task. We got the 2nd place in the competition.
 
 - [VASILY, Inc. (acquired by ZOZO Technologies, Inc)](https://tech.zozo.com/en/) (Tokyo, Japan; 2017 Summer)  
 Learning a joint embedding space for images and descriptions to realize a multi-modal search system.
