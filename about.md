@@ -21,7 +21,7 @@ I am now at [Robot Intelligence through Perception Lab](https://ttic.edu/ripl/) 
 # Publications ([Google Scholar](https://scholar.google.com/citations?user=EtYv_AIAAAAJ&hl=en))
 - _[Invariance Through Inference](https://arxiv.org/abs/2112.08526)_  
 **Takuma Yoneda**, Ge Yang, Bradly Stadie, and Matthew R. Walter,  
-In submission to RSS 2022  
+To appear in RSS 2022  
 [[website](https://invariance-through-inference.github.io/)]
 
 - [A Robot Cluster for Reproducible Research in Dexterous Manipulation](http://arxiv.org/abs/2109.10957)  
