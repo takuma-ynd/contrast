@@ -61,7 +61,7 @@ Note that this only updates $$s_t$$ and the decoder params are fixed during this
 
 The resulting state $$s$$ is used as $$s_\text{goal}$$ for planning.
 
-![auto-decoding]({{ page.baseimg }}/auto-decoding.png){:style="display:block; margin-left:auto; margin-right:auto; width: 500px"}
+![auto-decoding]({{ page.baseimg }}/auto-decoding.png){:style="display:block; margin-left:auto; margin-right:auto; width: 90%"}
 
 # Not sure
 - How does NeRF take an extra state vector in adition to $$(x, y, z, \theta, \phi)$$ ??
