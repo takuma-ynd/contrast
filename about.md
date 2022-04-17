@@ -16,6 +16,8 @@ In the past, I have interned at several places including [UCL](https://mr.cs.ucl
 
 I am now at [Robot Intelligence through Perception Lab](https://ttic.edu/ripl/) working with [Bradly Stadie](https://bstadie.github.io/) and [Matthew R. Walter](https://ttic.uchicago.edu/~mwalter/).
 
+TTIC featured me recently: [Takuma Yoneda - Student Highlight](https://www.ttic.edu/student-highlights/yoneda/)
+
 <!-- I got a Bachelor of Engineering from Toyota Technological Institute (Nagoya, Japan) and worked on Graph Embedding and Natural Language Processing with Prof. [Makoto Miwa](https://www.toyota-ti.ac.jp/Lab/Denshi/COIN/people/makoto.miwa/) and Prof. [Yutaka Sasaki](https://www.toyota-ti.ac.jp/Lab/Denshi/COIN/people/yutaka.sasaki/index-e.html) at Computational Intelligence Lab. -->
 
 # Publications ([Google Scholar](https://scholar.google.com/citations?user=EtYv_AIAAAAJ&hl=en))
