@@ -7,6 +7,22 @@
 <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 <meta name="author" content="{{ page.author | default: site.author | escape}}">
 <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+
+<!-- Twitter card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@takuma_yoneda">
+<meta name="twitter:url" content="https://takuma.yoneda.xyz/">
+<!-- <meta name="twitter:image:src" content="https://takuma.yoneda.xyz/img/tyoneda.jpg"> -->
+<meta name="twitter:title" content="{{ page.title }}">
+{% if page.description %}
+  <meta name="twitter:description"
+        content="{{ page.meta_description }}">
+{% else %}
+  <meta name="twitter:description"
+        content="{{ page.content | strip_html | xml_escape
+                 | truncate: 200 }}">
+{% endif %}
+
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 <link rel="stylesheet" href="{{ "/assets/css/index.css" | relative_url }}">
 <link rel="stylesheet" href="{{ site.style | default: "theme" | prepend: "/assets/css/" | append: ".css" | relative_url }}">
